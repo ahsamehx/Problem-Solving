@@ -1,0 +1,57 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+#define inf 1e10
+const int N = 1e6 + 5;
+const int mod = 1e9 + 7;
+#define Ahmed                     \
+    ios_base::sync_with_stdio(0); \
+    cin.tie(0);                   \
+    cout.tie(0);
+long long mul(long long x, long long y, const long long &mod) { return ((x % mod) * (y % mod)) % mod; }
+long long add(long long x, long long y, const long long &mod) { return (((x % mod) + (y % mod)) % mod + mod) % mod; }
+
+// اللَّهُمَّ انفَعْني بما عَلَّمتَني، وعلِّمْني ما يَنفعُني، وارزُقْني عِلمًا تَنفعُني به
+
+/*======================================ahsamehx===========================================*/
+
+signed main()
+{
+    Ahmed
+
+        int primes[N] = {0};
+    int factorful[11][N];
+
+    for (int i = 2; i < N; i++)
+    {
+        if (primes[i] == 0)
+        {
+            for (int j = i; j <= N; j += i)
+                primes[j]++;
+        }
+    }
+
+    for (int i = 1; i < N; i++)
+    {
+        for (int j = 0; j < 11; j++)
+        {
+            factorful[j][i] = factorful[j][i - 1] + (primes[i] == j);
+        }
+    }
+
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int a, b, n;
+        cin >> a >> b >> n;
+        int res = 0;
+        for (int i = a; i <= b; i++)
+        {
+            if (primes[i] == n)
+                res++;
+        }
+        cout << res << endl;
+    }
+}

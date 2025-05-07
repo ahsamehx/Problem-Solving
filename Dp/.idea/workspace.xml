@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d24c608-83f5-45bc-b124-dbe373ded51c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Boredom.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coin Change.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/k-Tree.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uK7Pzg9MvgLVs01PpxdALq09VL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Array Description.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Book Shop.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Boredom.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.By Elevator or Stairs.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Coin Change.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Coin Combinations I.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Coin Combinations II.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Cut Ribbon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Easy Longest Increasing Subsequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Edit distance.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Edit distance.cpp (2).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Edit distance.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Flowers.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Grid Paths.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Let Me Count The Ways.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Longest Common Subsequence.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Mashmokh and ACM.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Minimizing Coins.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Princess Farida.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Removing Digits.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Wachovia Bank.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Woodcutters.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.edit distance.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.k-Tree.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Problem Solving/Dp/Dice Combinations.cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.Array Description.cpp">
+    <configuration name="Array Description.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Array Description.cpp" CONFIG_NAME="Array Description.cpp">
+      <option name="sourceFile" value="Array Description.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book Shop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Book Shop.cpp" CONFIG_NAME="Book Shop.cpp">
+      <option name="sourceFile" value="Book Shop.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coin Change.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Coin Change.cpp" CONFIG_NAME="Coin Change.cpp">
+      <option name="sourceFile" value="Coin Change.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coin Combinations II.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Coin Combinations II.cpp" CONFIG_NAME="Coin Combinations II.cpp">
+      <option name="sourceFile" value="Coin Combinations II.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coin Combinations I.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Coin Combinations I.cpp" CONFIG_NAME="Coin Combinations I.cpp">
+      <option name="sourceFile" value="Coin Combinations I.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cut Ribbon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Cut Ribbon.cpp" CONFIG_NAME="Cut Ribbon.cpp">
+      <option name="sourceFile" value="D:\Problem Solving\Dp\Edit distance.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Easy Longest Increasing Subsequence.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Easy Longest Increasing Subsequence.cpp" CONFIG_NAME="Easy Longest Increasing Subsequence.cpp">
+      <option name="sourceFile" value="Easy Longest Increasing Subsequence.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flowers.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Flowers.cpp" CONFIG_NAME="Flowers.cpp">
+      <option name="sourceFile" value="D:\Problem Solving\Dp\Flowers.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grid Paths.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Grid Paths.cpp" CONFIG_NAME="Grid Paths.cpp">
+      <option name="sourceFile" value="Grid Paths.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest Common Subsequence.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Longest Common Subsequence.cpp" CONFIG_NAME="Longest Common Subsequence.cpp">
+      <option name="sourceFile" value="Longest Common Subsequence.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Minimizing Coins.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Minimizing Coins.cpp" CONFIG_NAME="Minimizing Coins.cpp">
+      <option name="sourceFile" value="Minimizing Coins.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Princess Farida.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Princess Farida.cpp" CONFIG_NAME="Princess Farida.cpp">
+      <option name="sourceFile" value="Princess Farida.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Removing Digits.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Removing Digits.cpp" CONFIG_NAME="Removing Digits.cpp">
+      <option name="sourceFile" value="Removing Digits.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wachovia Bank.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Wachovia Bank.cpp" CONFIG_NAME="Wachovia Bank.cpp">
+      <option name="sourceFile" value="Wachovia Bank.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Woodcutters.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Woodcutters.cpp" CONFIG_NAME="Woodcutters.cpp">
+      <option name="sourceFile" value="D:\Problem Solving\Dp\Woodcutters.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edit distance.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="edit distance.cpp" CONFIG_NAME="edit distance.cpp">
+      <option name="sourceFile" value="D:\Problem Solving\Dp\Dice Combinations.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k-Tree.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="k-Tree.cpp" CONFIG_NAME="k-Tree.cpp">
+      <option name="sourceFile" value="D:\Problem Solving\Dp\k-Tree.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.Array Description.cpp" />
+      <item itemvalue="C/C++ File.Book Shop.cpp" />
+      <item itemvalue="C/C++ File.Coin Change.cpp" />
+      <item itemvalue="C/C++ File.Coin Combinations II.cpp" />
+      <item itemvalue="C/C++ File.Coin Combinations I.cpp" />
+      <item itemvalue="C/C++ File.Cut Ribbon.cpp" />
+      <item itemvalue="C/C++ File.Easy Longest Increasing Subsequence.cpp" />
+      <item itemvalue="C/C++ File.Flowers.cpp" />
+      <item itemvalue="C/C++ File.Grid Paths.cpp" />
+      <item itemvalue="C/C++ File.Longest Common Subsequence.cpp" />
+      <item itemvalue="C/C++ File.Minimizing Coins.cpp" />
+      <item itemvalue="C/C++ File.Princess Farida.cpp" />
+      <item itemvalue="C/C++ File.Removing Digits.cpp" />
+      <item itemvalue="C/C++ File.Wachovia Bank.cpp" />
+      <item itemvalue="C/C++ File.Woodcutters.cpp" />
+      <item itemvalue="C/C++ File.edit distance.cpp" />
+      <item itemvalue="C/C++ File.k-Tree.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d24c608-83f5-45bc-b124-dbe373ded51c" name="Changes" comment="" />
+      <created>1741985391966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741985391966</updated>
+      <workItem from="1741985393131" duration="4154000" />
+      <workItem from="1742074090657" duration="7888000" />
+      <workItem from="1742116786930" duration="2926000" />
+      <workItem from="1742161006617" duration="2619000" />
+      <workItem from="1742227259529" duration="6412000" />
+      <workItem from="1742408264017" duration="3768000" />
+      <workItem from="1743072013187" duration="5049000" />
+      <workItem from="1744648953353" duration="3479000" />
+      <workItem from="1744664119321" duration="9151000" />
+      <workItem from="1745478509955" duration="17892000" />
+      <workItem from="1745585249604" duration="651000" />
+      <workItem from="1745658082043" duration="26000" />
+      <workItem from="1745691546516" duration="1674000" />
+      <workItem from="1745839451306" duration="1557000" />
+      <workItem from="1745842155069" duration="3363000" />
+      <workItem from="1746005601117" duration="15290000" />
+      <workItem from="1746374387196" duration="15203000" />
+      <workItem from="1746518780742" duration="13505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,93 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CPUVisualizer",
+            "request": "launch",
+            "mainClass": "OS_assignmentGUI.CPUVisualizer",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "CPUVisualizer",
+            "request": "launch",
+            "mainClass": "CPUVisualizer",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "SquarePanel",
+            "request": "launch",
+            "mainClass": "SquarePanel",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OS_assignment3.Main",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "CPUSchedulingSimulation",
+            "request": "launch",
+            "mainClass": "CPUSchedulingSimulation",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "ParkingSystemSimulation",
+            "request": "launch",
+            "mainClass": "ParkingSystemSimulation",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OS_assignment.Main",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Coding_7fd822e3"
+        },
+        {
+            "name": "C/C++: g++.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ],
+    "version": "2.0.0"
+}
