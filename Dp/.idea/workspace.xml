@@ -17,7 +17,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d24c608-83f5-45bc-b124-dbe373ded51c" name="Changes" comment="" />
+    <list default="true" id="3d24c608-83f5-45bc-b124-dbe373ded51c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Counting Towers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +30,9 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -69,53 +77,59 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2uK7Pzg9MvgLVs01PpxdALq09VL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Array Description.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Book Shop.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Boredom.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.By Elevator or Stairs.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Coin Change.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Coin Combinations I.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Coin Combinations II.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Cut Ribbon.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Easy Longest Increasing Subsequence.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Edit distance.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Edit distance.cpp (2).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Edit distance.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Flowers.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Grid Paths.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Let Me Count The Ways.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Longest Common Subsequence.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Mashmokh and ACM.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Minimizing Coins.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Princess Farida.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Removing Digits.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Wachovia Bank.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Woodcutters.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.edit distance.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.k-Tree.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Problem Solving/Dp/Dice Combinations.cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Array Description.cpp.executor": "Run",
+    "C/C++ File.Book Shop.cpp.executor": "Run",
+    "C/C++ File.Boredom.cpp.executor": "Run",
+    "C/C++ File.By Elevator or Stairs.cpp.executor": "Run",
+    "C/C++ File.Coin Change.cpp.executor": "Run",
+    "C/C++ File.Coin Combinations I.cpp.executor": "Run",
+    "C/C++ File.Coin Combinations II.cpp.executor": "Run",
+    "C/C++ File.Counting Towers.cpp.executor": "Run",
+    "C/C++ File.Cut Ribbon.cpp.executor": "Run",
+    "C/C++ File.Easy Longest Increasing Subsequence.cpp.executor": "Run",
+    "C/C++ File.Edit distance.cpp (1).executor": "Run",
+    "C/C++ File.Edit distance.cpp (2).executor": "Run",
+    "C/C++ File.Edit distance.cpp.executor": "Run",
+    "C/C++ File.Flowers.cpp.executor": "Run",
+    "C/C++ File.Grid Paths.cpp.executor": "Run",
+    "C/C++ File.Let Me Count The Ways.cpp.executor": "Run",
+    "C/C++ File.Longest Common Subsequence.cpp.executor": "Run",
+    "C/C++ File.Mashmokh and ACM.cpp.executor": "Run",
+    "C/C++ File.Minimizing Coins.cpp.executor": "Run",
+    "C/C++ File.Princess Farida.cpp.executor": "Run",
+    "C/C++ File.Removing Digits.cpp.executor": "Run",
+    "C/C++ File.Wachovia Bank.cpp.executor": "Run",
+    "C/C++ File.Woodcutters.cpp.executor": "Run",
+    "C/C++ File.edit distance.cpp.executor": "Run",
+    "C/C++ File.k-Tree.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Problem Solving/Dp/Dice Combinations.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.Array Description.cpp">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.Counting Towers.cpp">
     <configuration name="Array Description.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Array Description.cpp" CONFIG_NAME="Array Description.cpp">
       <option name="sourceFile" value="Array Description.cpp" />
       <method v="2">
@@ -142,6 +156,12 @@
     </configuration>
     <configuration name="Coin Combinations I.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Coin Combinations I.cpp" CONFIG_NAME="Coin Combinations I.cpp">
       <option name="sourceFile" value="Coin Combinations I.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counting Towers.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Counting Towers.cpp" CONFIG_NAME="Counting Towers.cpp">
+      <option name="sourceFile" value="Counting Towers.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -224,22 +244,23 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.Counting Towers.cpp" />
       <item itemvalue="C/C++ File.Array Description.cpp" />
       <item itemvalue="C/C++ File.Book Shop.cpp" />
-      <item itemvalue="C/C++ File.Coin Change.cpp" />
-      <item itemvalue="C/C++ File.Coin Combinations II.cpp" />
       <item itemvalue="C/C++ File.Coin Combinations I.cpp" />
+      <item itemvalue="C/C++ File.Coin Combinations II.cpp" />
+      <item itemvalue="C/C++ File.Grid Paths.cpp" />
+      <item itemvalue="C/C++ File.Removing Digits.cpp" />
+      <item itemvalue="C/C++ File.Minimizing Coins.cpp" />
+      <item itemvalue="C/C++ File.edit distance.cpp" />
       <item itemvalue="C/C++ File.Cut Ribbon.cpp" />
+      <item itemvalue="C/C++ File.Coin Change.cpp" />
       <item itemvalue="C/C++ File.Easy Longest Increasing Subsequence.cpp" />
       <item itemvalue="C/C++ File.Flowers.cpp" />
-      <item itemvalue="C/C++ File.Grid Paths.cpp" />
       <item itemvalue="C/C++ File.Longest Common Subsequence.cpp" />
-      <item itemvalue="C/C++ File.Minimizing Coins.cpp" />
       <item itemvalue="C/C++ File.Princess Farida.cpp" />
-      <item itemvalue="C/C++ File.Removing Digits.cpp" />
       <item itemvalue="C/C++ File.Wachovia Bank.cpp" />
       <item itemvalue="C/C++ File.Woodcutters.cpp" />
-      <item itemvalue="C/C++ File.edit distance.cpp" />
       <item itemvalue="C/C++ File.k-Tree.cpp" />
     </list>
   </component>
@@ -269,10 +290,16 @@
       <workItem from="1746005601117" duration="15290000" />
       <workItem from="1746374387196" duration="15203000" />
       <workItem from="1746518780742" duration="13505000" />
+      <workItem from="1746613263824" duration="858000" />
+      <workItem from="1746701218081" duration="3104000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit of project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
