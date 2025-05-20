@@ -17,8 +17,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d24c608-83f5-45bc-b124-dbe373ded51c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Counting Towers.cpp" afterDir="false" />
+    <list default="true" id="3d24c608-83f5-45bc-b124-dbe373ded51c" name="Changes" comment="Counting Towers.cpp added">
+      <change afterPath="$PROJECT_DIR$/Edit Distance .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Increasing Subsequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longest Common Subsequence .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Money Sums.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangle Cutting.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Removal Game.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
@@ -35,36 +40,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -96,16 +71,20 @@
     "C/C++ File.Counting Towers.cpp.executor": "Run",
     "C/C++ File.Cut Ribbon.cpp.executor": "Run",
     "C/C++ File.Easy Longest Increasing Subsequence.cpp.executor": "Run",
+    "C/C++ File.Edit Distance .cpp.executor": "Run",
     "C/C++ File.Edit distance.cpp (1).executor": "Run",
     "C/C++ File.Edit distance.cpp (2).executor": "Run",
     "C/C++ File.Edit distance.cpp.executor": "Run",
     "C/C++ File.Flowers.cpp.executor": "Run",
     "C/C++ File.Grid Paths.cpp.executor": "Run",
     "C/C++ File.Let Me Count The Ways.cpp.executor": "Run",
+    "C/C++ File.Longest Common Subsequence .cpp.executor": "Run",
     "C/C++ File.Longest Common Subsequence.cpp.executor": "Run",
     "C/C++ File.Mashmokh and ACM.cpp.executor": "Run",
     "C/C++ File.Minimizing Coins.cpp.executor": "Run",
+    "C/C++ File.Money Sums.cpp.executor": "Run",
     "C/C++ File.Princess Farida.cpp.executor": "Run",
+    "C/C++ File.Rectangle Cutting.cpp.executor": "Run",
     "C/C++ File.Removing Digits.cpp.executor": "Run",
     "C/C++ File.Wachovia Bank.cpp.executor": "Run",
     "C/C++ File.Woodcutters.cpp.executor": "Run",
@@ -120,7 +99,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Problem Solving/Dp/Dice Combinations.cpp",
+    "last_opened_file_path": "D:/Problem Solving/Dp/Increasing Subsequence.cpp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -129,7 +108,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Counting Towers.cpp">
+  <component name="RunManager" selected="C/C++ File.Money Sums.cpp">
     <configuration name="Array Description.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Array Description.cpp" CONFIG_NAME="Array Description.cpp">
       <option name="sourceFile" value="Array Description.cpp" />
       <method v="2">
@@ -178,6 +157,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Edit Distance .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Edit Distance .cpp" CONFIG_NAME="Edit Distance .cpp">
+      <option name="sourceFile" value="Edit Distance .cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Flowers.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Flowers.cpp" CONFIG_NAME="Flowers.cpp">
       <option name="sourceFile" value="D:\Problem Solving\Dp\Flowers.cpp" />
       <method v="2">
@@ -186,6 +171,12 @@
     </configuration>
     <configuration name="Grid Paths.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Grid Paths.cpp" CONFIG_NAME="Grid Paths.cpp">
       <option name="sourceFile" value="Grid Paths.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest Common Subsequence .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Longest Common Subsequence .cpp" CONFIG_NAME="Longest Common Subsequence .cpp">
+      <option name="sourceFile" value="Longest Common Subsequence .cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -202,8 +193,20 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Money Sums.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Money Sums.cpp" CONFIG_NAME="Money Sums.cpp">
+      <option name="sourceFile" value="D:\Problem Solving\Dp\Increasing Subsequence.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Princess Farida.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Princess Farida.cpp" CONFIG_NAME="Princess Farida.cpp">
       <option name="sourceFile" value="Princess Farida.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle Cutting.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" activateToolWindowBeforeRun="false" PROGRAM_PARAMS="input.txt output.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dp" TARGET_NAME="Rectangle Cutting.cpp" CONFIG_NAME="Rectangle Cutting.cpp">
+      <option name="sourceFile" value="Rectangle Cutting.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -244,7 +247,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.Money Sums.cpp" />
+      <item itemvalue="C/C++ File.Longest Common Subsequence .cpp" />
+      <item itemvalue="C/C++ File.Rectangle Cutting.cpp" />
       <item itemvalue="C/C++ File.Counting Towers.cpp" />
+      <item itemvalue="C/C++ File.Edit Distance .cpp" />
       <item itemvalue="C/C++ File.Array Description.cpp" />
       <item itemvalue="C/C++ File.Book Shop.cpp" />
       <item itemvalue="C/C++ File.Coin Combinations I.cpp" />
@@ -291,8 +298,20 @@
       <workItem from="1746374387196" duration="15203000" />
       <workItem from="1746518780742" duration="13505000" />
       <workItem from="1746613263824" duration="858000" />
-      <workItem from="1746701218081" duration="3104000" />
+      <workItem from="1746701218081" duration="4827000" />
+      <workItem from="1747080534347" duration="6159000" />
+      <workItem from="1747215065084" duration="2658000" />
+      <workItem from="1747639877385" duration="2694000" />
     </task>
+    <task id="LOCAL-00001" summary="Counting Towers.cpp added">
+      <option name="closed" value="true" />
+      <created>1746724554042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746724554042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +319,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Counting Towers.cpp added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counting Towers.cpp added" />
   </component>
 </project>
